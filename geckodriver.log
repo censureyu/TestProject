@@ -1,0 +1,52 @@
+1525361089505	geckodriver	INFO	geckodriver 0.20.1
+1525361089524	geckodriver	INFO	Listening on 127.0.0.1:57268
+1525361092908	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\CENSUR~1\\AppData\\Local\\Temp\\rust_mozprofile.Ybkd7HLXQSkA"
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+1525361094900	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+1525361100988	Marionette	INFO	Listening on port 57281
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+1525361101730	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525361490121	geckodriver	INFO	geckodriver 0.20.1
+1525361490139	geckodriver	INFO	Listening on 127.0.0.1:58097
+1525361493147	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\CENSUR~1\\AppData\\Local\\Temp\\rust_mozprofile.om40YgLw9QRX"
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+1525361494972	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+1525361501020	Marionette	INFO	Listening on port 58107
+1525361501236	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://mat1.gtimg.com/www/qq_index/js/qq_5b37ae06.js, line 6: TypeError: a(...) is null
+JavaScript error: http://mat1.gtimg.com/www/qq_index/js/qq_5b37ae06.js, line 4: TypeError: t[M].fortune is undefined
+JavaScript error: http://ra.gtimg.com/web/crystal/v4.4Beta05Build050/crystal-min.js, line 82: NetworkError: A network error occurred.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525361532681	geckodriver	INFO	geckodriver 0.20.1
+1525361532699	geckodriver	INFO	Listening on 127.0.0.1:58305
+1525361535706	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\CENSUR~1\\AppData\\Local\\Temp\\rust_mozprofile.geA69xSiWqCQ"
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+1525361537494	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+1525361543260	Marionette	INFO	Listening on port 58313
+1525361543716	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\censureyu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1525361577298	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1525361577320	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1525361577322	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
